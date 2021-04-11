@@ -4,4 +4,4 @@ In particolare:
 - VibrazioneDefinitiva1.pdf: pdf della relazione
 - ModelloSimulink.slx: modello vibrazionale sviluppato in ambiente Simulink
 - ModelloSimscape.slx: modello vibrazionale sviluppato in ambiente Simscape
-- DatiIngresso.m: breve script interattivo per avviare le simulazioni dei modelli
+- DatiIngressoSimulazione.m: breve script interattivo per avviare le simulazioni dei modelli
