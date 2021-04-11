@@ -1,7 +1,7 @@
 prompt = 'Inserire massa in kg del cestello: ';
-M = input(prompt);
+M = input(prompt1);
 prompt1 = 'Inserire massa in kg dei panni da lavare: ';
-m_asciutta = input (prompt1);
+m_asciutta = input (prompt);
 m=2*m_asciutta;
 prompt2 = 'Inserire coefficienti elastici delle molle in N/m: ';
 k = input(prompt2);
